@@ -1,4 +1,4 @@
-# ˚ ༘ N⊕name ♡ ˚
+# ˚ QuanQi_@ ♡ ˚
 
 <div align="center">
 
