@@ -1,106 +1,130 @@
-# ˚ QuanQi_@ ♡ ˚
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,20,30&text=%40Quan_&fontSize=70&fontColor=ff2d78&stroke=ff2d78&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=she+codes.+she+creates.+she+doesn%27t+explain.&descSize=14&descAlignY=80&descColor=cc8899" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="lovers.jpg" width="130" style="border-radius:50%; border: 3px solid #ff2d78;"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-**founder of EclipseSystems · homelab gremlin · OSU enjoyer · perpetually sleepy**
+```
+  ╭──────────────────────────────────────────────────╮
+  │   ♡  coder  ·  artist  ·  girl with an IDE  ♡   │
+  ╰──────────────────────────────────────────────────╯
+```
 
-![pronouns](https://img.shields.io/badge/she%2Fher-pink?style=flat-square&color=f4c0d1&labelColor=f4c0d1&logoColor=72243e)
-![location](https://img.shields.io/badge/solar%20system%2C%20earth-teal?style=flat-square&color=9fe1cb&labelColor=9fe1cb&logoColor=085041)
-![sleep](https://img.shields.io/badge/loves%20sleeping-purple?style=flat-square&color=cecbf6&labelColor=cecbf6&logoColor=3c3489)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FF2D78&center=true&vCenter=true&width=500&lines=building+things+that+actually+slap;dark+mode+is+a+personality;art+%2B+code+%3D+my+whole+thing;yes+i+debugged+that+at+3am)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### ✨ about me
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
-I spend my days building things that probably shouldn't exist, breaking servers at 3am, and collecting Hackatime hours in TypeScript. Founder of [EclipseSystems.org](https://eclipsesystems.org/) — a company I made with &lt;3. When I'm not coding I'm either clicking circles in OSU or asleep.
+### ˚₊· ͟͟͞͞➳❥ who is she
 
----
+```python
+class Quan:
+    name       = "@Quan_"
+    pronouns   = "she / her"
+    vibe       = ["dark academia", "soft grunge", "hacker chic"]
+    passion    = ["creative coding", "digital art", "UI/UX"]
+    tools      = ["VS Code", "Procreate", "terminal + vibes"]
+    at_2am     = "definitely still coding or drawing, probably both"
+    weakness   = "pretty color palettes and broken builds"
 
-### 🧩 tech stack
+    def motto(self):
+        return "make it work, make it beautiful, make it yours 💅"
+```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat-square&logo=typescript&logoColor=0C447C)
-![JavaScript](https://img.shields.io/badge/JavaScript-FAEEDA?style=flat-square&logo=javascript&logoColor=633806)
-![C](https://img.shields.io/badge/C-FAECE7?style=flat-square&logo=c&logoColor=712B13)
-![C#](https://img.shields.io/badge/C%23-FAECE7?style=flat-square&logo=csharp&logoColor=712B13)
-![C++](https://img.shields.io/badge/C++-FAECE7?style=flat-square&logo=cplusplus&logoColor=712B13)
-![Python](https://img.shields.io/badge/Python-EEEDFE?style=flat-square&logo=python&logoColor=3C3489)
-![Bash](https://img.shields.io/badge/Bash-E1F5EE?style=flat-square&logo=gnubash&logoColor=085041)
-![Lua](https://img.shields.io/badge/Lua-FBEAF0?style=flat-square&logo=lua&logoColor=72243E)
-![PowerShell](https://img.shields.io/badge/PowerShell-EEEDFE?style=flat-square&logo=powershell&logoColor=3C3489)
-
-![Next.js](https://img.shields.io/badge/Next.js-E6F1FB?style=flat-square&logo=nextdotjs&logoColor=0C447C)
-![React](https://img.shields.io/badge/React-EEEDFE?style=flat-square&logo=react&logoColor=3C3489)
-![Node.js](https://img.shields.io/badge/Node.js-E1F5EE?style=flat-square&logo=nodedotjs&logoColor=085041)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-EAF3DE?style=flat-square&logo=tailwindcss&logoColor=27500A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-EEEDFE?style=flat-square&logo=bootstrap&logoColor=3C3489)
-
-![Docker](https://img.shields.io/badge/Docker-FAEEDA?style=flat-square&logo=docker&logoColor=633806)
-![Nginx](https://img.shields.io/badge/Nginx-FAECE7?style=flat-square&logo=nginx&logoColor=712B13)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E6F1FB?style=flat-square&logo=postgresql&logoColor=0C447C)
-![MySQL](https://img.shields.io/badge/MySQL-E1F5EE?style=flat-square&logo=mysql&logoColor=085041)
-![MongoDB](https://img.shields.io/badge/MongoDB-EAF3DE?style=flat-square&logo=mongodb&logoColor=27500A)
-![Redis](https://img.shields.io/badge/Redis-FBEAF0?style=flat-square&logo=redis&logoColor=72243E)
-![SQLite](https://img.shields.io/badge/SQLite-E6F1FB?style=flat-square&logo=sqlite&logoColor=0C447C)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-EAF3DE?style=flat-square&logo=influxdb&logoColor=27500A)
-![MariaDB](https://img.shields.io/badge/MariaDB-E1F5EE?style=flat-square&logo=mariadb&logoColor=085041)
-
-![Git](https://img.shields.io/badge/Git-FAECE7?style=flat-square&logo=git&logoColor=712B13)
-![Gitea](https://img.shields.io/badge/Gitea-FBEAF0?style=flat-square&logo=gitea&logoColor=72243E)
-![Arduino](https://img.shields.io/badge/Arduino-FAEEDA?style=flat-square&logo=arduino&logoColor=633806)
-![Cisco](https://img.shields.io/badge/Cisco-EEEDFE?style=flat-square&logo=cisco&logoColor=3C3489)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-FAECE7?style=flat-square&logo=pihole&logoColor=712B13)
-![Krita](https://img.shields.io/badge/Krita-E1F5EE?style=flat-square&logo=krita&logoColor=085041)
-![Sketch](https://img.shields.io/badge/Sketch-FAEEDA?style=flat-square&logo=sketch&logoColor=633806)
+<br clear="right"/>
 
 ---
 
-### ⏱ hackatime stats
+### ˚₊· ͟͟͞͞➳❥ tech stack
 
-<!--
-  Replace YOUR_WAKATIME_USERNAME with your Wakatime/Hackatime username below.
-  Hackatime is compatible with the github-readme-stats wakatime card.
-  Endpoint: https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME
--->
+<div align="center">
 
-[![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=FBEAF0&title_color=72243E&text_color=3C3489&icon_color=D4537E)](https://wakatime.com)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FF2D78)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF2D78)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=FF2D78)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=FF2D78)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=FF2D78)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=FF2D78)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF2D78)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=FF2D78)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FF2D78)
+![Procreate](https://img.shields.io/badge/Procreate-0d0d0d?style=for-the-badge&logoColor=FF2D78)
 
----
-
-### 📦 pinned projects
-
-**[EcliPanel](https://ecli.app/)** — a full-featured game server control panel and orchestration platform. Multi-tenant, handles billing, DNS, users, and more.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat-square&logo=typescript&logoColor=0C447C)
-![Next.js](https://img.shields.io/badge/Next.js-E6F1FB?style=flat-square&logo=nextdotjs&logoColor=0C447C)
-![Docker](https://img.shields.io/badge/Docker-FAEEDA?style=flat-square&logo=docker&logoColor=633806)
-⭐ 18 &nbsp; 🍴 2
+</div>
 
 ---
 
-**[EclipseSystems.org](https://eclipsesystems.org/)** — my company, a hosting and infrastructure platform with tools for developers and teams.
+### ˚₊· ͟͟͞͞➳❥ github stats
 
-![eclipsesystems.org](https://img.shields.io/badge/eclipsesystems.org-FBEAF0?style=flat-square&logoColor=72243E)
-![summerhost.top](https://img.shields.io/badge/summerhost.top-E1F5EE?style=flat-square&logoColor=085041)
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Quan_&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=cc8899&ring_color=ff2d78"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quan_&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=cc8899"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Quan_&theme=radical&hide_border=true&background=0d0d0d&ring=ff2d78&fire=ff2d78&currStreakLabel=ff2d78&sideLabels=cc8899&dates=cc8899&currStreakNum=ffffff&sideNums=ffffff)
+
+</div>
 
 ---
 
-### 🌸 contribution graph
+### ˚₊· ͟͟͞͞➳❥ what i'm building
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandraqi1&bg_color=FBEAF0&color=72243E&line=D4537E&point=3C3489&area=true&hide_border=true)](https://github.com/sandraqi1)
+| 🌸 project | 💀 status | ✦ energy |
+|---|---|---|
+| personal portfolio v3 | `shipping soon` | dark, sleek, animated |
+| art + code experiments | `always wip` | generative chaos |
+| ui component library | `in progress` | girly but functional |
+| open source contributions | `active` | give back era |
 
 ---
 
-### 🌐 find me
+### ˚₊· ͟͟͞͞➳❥ currently
 
-[![Discord](https://img.shields.io/badge/Discord-EEEDFE?style=flat-square&logo=discord&logoColor=3C3489)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-FBEAF0?style=flat-square&logo=gmail&logoColor=72243E)](mailto:your@email.here)
-[![EclipseSystems](https://img.shields.io/badge/EclipseSystems.org-E1F5EE?style=flat-square&logo=firefoxbrowser&logoColor=085041)](https://eclipsesystems.org/)
-[![ecli.app](https://img.shields.io/badge/ecli.app-E6F1FB?style=flat-square&logo=firefoxbrowser&logoColor=0C447C)](https://ecli.app/)
+```
+  📻  listening  →  whatever matches the mood at compile time
+  📖  learning   →  three.js + WebGL (making the web pretty)
+  🎨  drawing    →  character studies & UI concept art
+  ☕  fueled by  →  iced coffee and the thrill of a clean build
+```
+
+---
+
+### ˚₊· ͟͟͞͞➳❥ find me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/@Quan_-0d0d0d?style=for-the-badge&logo=x&logoColor=FF2D78)](https://twitter.com/Quan_)
+[![Instagram](https://img.shields.io/badge/art+life-0d0d0d?style=for-the-badge&logo=instagram&logoColor=FF2D78)](https://instagram.com)
+[![Ko-fi](https://img.shields.io/badge/support+me-0d0d0d?style=for-the-badge&logo=kofi&logoColor=FF2D78)](https://ko-fi.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-0d0d0d?style=for-the-badge&logo=safari&logoColor=FF2D78)](#)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://count.moe/badge?name=sandraqi1&theme=asoul" alt="visitor count" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,30&section=footer&fontColor=ff2d78" width="100%"/>
+
+*「 she is both the storm and the one who codes through it 」*
+
+![](https://komarev.com/ghpvc/?username=Quan_&color=ff2d78&style=flat-square&label=✦+visitors)
+
 </div>
